@@ -1,1 +1,1 @@
-Created on API for a book management company, where the company has collections of books ,authors and publications. Here I even created API's for calling  the complete details are in  file named as requirment.js
+Created an API for a book management company, where the company has collections of books ,authors and publications. Here I even created API's for calling  the complete details are in  file named as requirment.js
